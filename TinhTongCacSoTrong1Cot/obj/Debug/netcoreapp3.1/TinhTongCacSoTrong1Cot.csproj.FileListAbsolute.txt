@@ -1,0 +1,13 @@
+E:\BT C#\TinhTongCacSoTrong1Cot\TinhTongCacSoTrong1Cot\obj\Debug\netcoreapp3.1\TinhTongCacSoTrong1Cot.csprojAssemblyReference.cache
+E:\BT C#\TinhTongCacSoTrong1Cot\TinhTongCacSoTrong1Cot\obj\Debug\netcoreapp3.1\TinhTongCacSoTrong1Cot.AssemblyInfoInputs.cache
+E:\BT C#\TinhTongCacSoTrong1Cot\TinhTongCacSoTrong1Cot\obj\Debug\netcoreapp3.1\TinhTongCacSoTrong1Cot.AssemblyInfo.cs
+E:\BT C#\TinhTongCacSoTrong1Cot\TinhTongCacSoTrong1Cot\obj\Debug\netcoreapp3.1\TinhTongCacSoTrong1Cot.csproj.CoreCompileInputs.cache
+E:\BT C#\TinhTongCacSoTrong1Cot\TinhTongCacSoTrong1Cot\bin\Debug\netcoreapp3.1\TinhTongCacSoTrong1Cot.exe
+E:\BT C#\TinhTongCacSoTrong1Cot\TinhTongCacSoTrong1Cot\bin\Debug\netcoreapp3.1\TinhTongCacSoTrong1Cot.deps.json
+E:\BT C#\TinhTongCacSoTrong1Cot\TinhTongCacSoTrong1Cot\bin\Debug\netcoreapp3.1\TinhTongCacSoTrong1Cot.runtimeconfig.json
+E:\BT C#\TinhTongCacSoTrong1Cot\TinhTongCacSoTrong1Cot\bin\Debug\netcoreapp3.1\TinhTongCacSoTrong1Cot.runtimeconfig.dev.json
+E:\BT C#\TinhTongCacSoTrong1Cot\TinhTongCacSoTrong1Cot\bin\Debug\netcoreapp3.1\TinhTongCacSoTrong1Cot.dll
+E:\BT C#\TinhTongCacSoTrong1Cot\TinhTongCacSoTrong1Cot\bin\Debug\netcoreapp3.1\TinhTongCacSoTrong1Cot.pdb
+E:\BT C#\TinhTongCacSoTrong1Cot\TinhTongCacSoTrong1Cot\obj\Debug\netcoreapp3.1\TinhTongCacSoTrong1Cot.dll
+E:\BT C#\TinhTongCacSoTrong1Cot\TinhTongCacSoTrong1Cot\obj\Debug\netcoreapp3.1\TinhTongCacSoTrong1Cot.pdb
+E:\BT C#\TinhTongCacSoTrong1Cot\TinhTongCacSoTrong1Cot\obj\Debug\netcoreapp3.1\TinhTongCacSoTrong1Cot.genruntimeconfig.cache
